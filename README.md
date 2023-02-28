@@ -160,7 +160,7 @@ Most of these GUIS, unless mentioned otherwise in their documentation, include s
 Prompts are the instructions given to diffusion models to manipulate their output. 
 
 * [Stable diffusion prompt book](https://openart.ai/promptbook) - OpenAI's stable diffusion prompt book, a very comprehensive resource on prompt engineering.
-
+* [stablediffusion.fr](https://stablediffusion.fr/) - List of Artists style and prompts.
 * [ai-art.com/modifiers](https://www.the-ai-art.com/modifiers) - A visual reference guide for keywords.
 * [aipromptguide.com](https://aipromptguide.com) - Visual Database of styles, modifier, artists and persons
 * 🖊️ [aiTransformer Prompt Builder](https://aitransformer.net/PromptBuilder) - Help build text prompts intuitively using an Image To Text tool to generate detailed text descriptions from image, and 800+ special Textual Inversion terms and often-used generic terms with sample images.
